@@ -1,5 +1,5 @@
 # DCEcology
-course material Elixir workshop
+course material Data Carpentry workshop
 this
 is
 a
